@@ -1,7 +1,8 @@
 # Testing
+- [X] Finish the assignment
+- [ ] Pass the class
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ## Code sample
 ```
 $ nvidia-smi
@@ -20,3 +21,4 @@ Wed May  1 13:13:22 2024
 ```
 
 ###### Smallest
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
